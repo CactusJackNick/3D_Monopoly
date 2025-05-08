@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d51e4ca10164943c5abd0d350cc3d548, type: 3}
+  m_Name: C_Purp_BatlicAvenue
+  m_EditorClassIdentifier: 
+  propertyName: Baltic Avenue
+  price: 60
+  rent: 4
+  OneHouseRent: 20
+  TwoHousesRent: 60
+  ThreeHousesRent: 180
+  FourHousesRent: 320
+  hotelRent: 450
+  colorGroup: 7
