@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bac35cef794e34f39913cb19e2701a4f, type: 3}
+  m_Name: AdvanceGO
+  m_EditorClassIdentifier: 
+  cardName: Advance Go
+  cardDescription: Advance to Go (collect 200)
+  moneyChange: 200
+  moveToTile: {x: 0, y: 0, z: 0}
+  getOutOfJailFree: 0
+  effectType: 5
+  cardPrefab: {fileID: 4618977250432227515, guid: 19492b15f0ac9408f8f36c6a619c6b3c, type: 3}

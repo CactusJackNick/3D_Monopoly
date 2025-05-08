@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bac35cef794e34f39913cb19e2701a4f, type: 3}
+  m_Name: Receive25
+  m_EditorClassIdentifier: 
+  cardName: Services25
+  cardDescription: 25 for services
+  moneyChange: 25
+  moveToTile: {x: 0, y: 0, z: 0}
+  effectType: 0
+  cardPrefab: {fileID: 7366021567489882528, guid: 146b8213c79ed42dcaf621e595d6ab44, type: 3}

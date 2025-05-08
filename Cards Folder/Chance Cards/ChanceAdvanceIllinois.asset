@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bac35cef794e34f39913cb19e2701a4f, type: 3}
+  m_Name: ChanceAdvanceIllinois
+  m_EditorClassIdentifier: 
+  cardName: Advance Illinois
+  cardDescription: Advance to Illinois
+  moneyChange: 0
+  moveToTile: {x: 24, y: 0, z: 0}
+  effectType: 5
+  cardPrefab: {fileID: 1910012739929655361, guid: 53d01164153a6444988a5971ae191187, type: 3}
